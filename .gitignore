@@ -295,3 +295,5 @@ powel-ui.css
 
 src/Web.Client/wwwroot/oidc-client.min.js
 dist/
+.angular
+.DS_Store
