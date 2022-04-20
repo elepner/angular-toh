@@ -294,4 +294,4 @@ powel-ui.css
 **/.env
 
 src/Web.Client/wwwroot/oidc-client.min.js
-
+dist/
